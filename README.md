@@ -1,4 +1,4 @@
-# QR-code-reader
+# QR-code-Generator 
 
 This is the easiest way to make a QR code reader.Just takes 3 Lines.
 
